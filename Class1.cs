@@ -1,8 +1,9 @@
 ﻿using System;
 
-public class Main
+public class Class1
 {
-	public Main()
-	{
+    public static void Main(string[] args)
+    {
+        Random random = new Random();
 	}
 }
